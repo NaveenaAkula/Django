@@ -15,7 +15,9 @@
 
 h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
-    background-color: red !important;
+    background-color: yellowgreen !important;
+    padding: 1rem;
+    color: white !important;
 }
 
 .date {
@@ -46,5 +48,9 @@ h1, h2, h3, h4 {
 }
 
 h1 a, h2 a {
-    color: #C25100 !important;
+    color: white !important;
+}
+
+.customPlus {
+    margin-top: 3rem;
 }
